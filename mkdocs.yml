@@ -12,12 +12,11 @@ theme:
   name: material
   language: zh  
   features:
-    - navigation.tabs
-    - navigation.sections
+    #- navigation.tabs
+    #- navigation.sections
     - navigation.top
     - navigation.tracking
-
-    - toc.integrate
+    - navigation.path
 
     - search.suggest
     - search.highlight
@@ -31,17 +30,17 @@ theme:
   palette:
       - media: "(prefers-color-scheme: light)"
         scheme: default
-        primary: light blue
+        primary: indigo
         accent: deep purple
         toggle:
-          icon: material/weather-sunny
+          icon: material/brightness-7
           name: Switch to dark mode
       - media: "(prefers-color-scheme: dark)"
         scheme: slate
-        primary: cyan
+        primary: black
         accent: deep purple
         toggle:
-          icon: material/weather-night
+          icon: material/brightness-4
           name: Switch to light mode
 
   font:
@@ -76,5 +75,13 @@ copyright: Copyright &copy; 2023-present <a href="https://github.com/Zhu-Shatong
 
 extra:
   social:
-    - icon: fontawesome/brands/github-alt
+    - icon: fontawesome/brands/github
       link: https://github.com/Zhu-Shatong
+
+
+nav:
+  - 总论: "index.md"
+
+  - 周报: 
+      - "1st week (0715-0716)": "周报/week1.md"
+
