@@ -15,6 +15,7 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.top
+    - navigation.tracking
 
     - toc.integrate
 
@@ -49,7 +50,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
-  custom_dir: overrides
+
 
 markdown_extensions:
   - pymdownx.highlight:
