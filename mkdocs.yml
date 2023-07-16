@@ -78,6 +78,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/Zhu-Shatong
 
+extra_css:
+  - stylesheets/extra.css
+
 
 nav:
   - 总论: "index.md"
