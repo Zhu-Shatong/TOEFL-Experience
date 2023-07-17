@@ -124,6 +124,7 @@ plugins:
   - search
   - git-revision-date-localized:
       enable_creation_date: true
+      type: iso_date
   - git-authors
   - git-committers:
       repository: Zhu-Shatong/TOEFL-Experience
