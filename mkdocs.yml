@@ -122,6 +122,8 @@ extra_css:
 
 plugins:
   - search
+  - git-revision-date-localized:
+      enable_creation_date: true
   - git-authors
   - git-committers:
       repository: Zhu-Shatong/TOEFL-Experience
