@@ -152,6 +152,40 @@ impractical是“不切实际的”，中文想清楚了再选，别飘！
 
 
 
+### 3 内容题
+
+![image-20230716210346198](https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230716210346198.png)
+
+#### 错误原因
+
+单纯是词汇量不够导致理解错误。
+
+A不知为何会被忽略，明明很明显的。有可能是B把两种鱼的名字都写出来了，显得煞有介事。
+
+==**句意为王，不看匹配度。**==
+
+
+
+### 4 内容题
+
+![image-20230716212031729](https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230716212031729.png)
+
+需要发现问题的本质：描述实验内容（也就是证据），正确的是。
+
+C 重要的是关键词 而不是both像说得很稳妥实际上没依据。
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

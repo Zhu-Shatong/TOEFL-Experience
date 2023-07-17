@@ -17,6 +17,7 @@ theme:
     - navigation.top
     - navigation.tracking
     - navigation.path
+    - navigation.footer
 
     - search.suggest
     - search.highlight
@@ -25,8 +26,23 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.action.view
+    - content.tooltips
+
+    - announce.dismiss
+
+    - navigation.footer
+
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+
+    - toc.follow
 
 
+    
   palette:
       - media: "(prefers-color-scheme: light)"
         scheme: default
@@ -49,27 +65,48 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
-
-
+# Extensions
 markdown_extensions:
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
+  - abbr
   - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.snippets
+  - toc:
+      permalink: true
   - pymdownx.arithmatex:
       generic: true
-  - footnotes
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
   - pymdownx.details
-  - pymdownx.superfences
-  - pymdownx.mark
-  - attr_list
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-  - md_in_html
-  - footnotes
-
+      emoji_index: !!python/name:materialx.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
 
 copyright: Copyright &copy; 2023-present <a href="https://github.com/Zhu-Shatong" target="_blank" rel="noopener noreferrer">Zhu-Shatong</a>
 
@@ -77,9 +114,18 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Zhu-Shatong
+  annotate:
+    json: [.s2]
 
 extra_css:
   - stylesheets/extra.css
+
+plugins:
+  - search
+  - git-authors
+  - git-committers:
+      repository: Zhu-Shatong/TOEFL-Experience
+      branch: main
 
 
 nav:
