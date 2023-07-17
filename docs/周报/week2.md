@@ -14,7 +14,7 @@
 
 | 项目    | 进度  |                                                              |
 | ------- | ----- | ------------------------------------------------------------ |
-| TPO阅读 | TPO31 | [去看看](https://zhu-shatong.github.io/TOEFL-Experience/阅读/TPO31/)) |
+| TPO阅读 | TPO31 | [去看看](https://zhu-shatong.github.io/TOEFL-Experience/阅读/TPO31/) |
 
 ### 听力
 
