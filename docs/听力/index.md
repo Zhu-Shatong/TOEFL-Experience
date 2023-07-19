@@ -2,7 +2,7 @@
 
 
 
-听力精听和相关材料使用《考满分》，传送门[点这里]([【托福考满分听力练习】ETS听力真题_toefl听力分题型练习_SSS科学美国人-托福考满分 (kmf.com)](https://toefl.kmf.com/practice/listening))。
+听力精听和相关材料使用《考满分》，传送门[点这里](https://toefl.kmf.com/practice/listening)。
 
 
 
