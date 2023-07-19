@@ -1,4 +1,4 @@
 git add .
-git commit -m "鏂板绀句氦棰勮鍗＄墖"
+git commit -m "新增社交预览卡片"
 git push origin main
 pause
