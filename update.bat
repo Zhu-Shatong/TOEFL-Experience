@@ -1,4 +1,4 @@
 git add .
-git commit -m "新增社交预览卡片"
+git commit -m "7.19 阅读专项练"
 git push origin main
 pause
