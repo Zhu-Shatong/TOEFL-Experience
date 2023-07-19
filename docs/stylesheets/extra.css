@@ -2,3 +2,8 @@
     max-width: 2140px; 
   }
   
+:root {
+    --md-primary-fg-color:        #004B8E;
+    --md-primary-fg-color--light: #ECB7B7;
+    --md-primary-fg-color--dark:  #90030C;
+  }
