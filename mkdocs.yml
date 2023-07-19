@@ -116,8 +116,6 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/Zhu-Shatong
-  annotate:
-    json: [.s2]
 
 extra_css:
   - stylesheets/extra.css
@@ -126,10 +124,10 @@ plugins:
   - search
   - git-revision-date-localized:
       type: iso_date
-  - git-authors
-  - git-committers:
-      repository: Zhu-Shatong/TOEFL-Experience
-      branch: main
+  #- git-authors
+  #- git-committers:
+  #    repository: Zhu-Shatong/TOEFL-Experience
+  #    branch: main
   #- social
 
 nav:
