@@ -130,6 +130,7 @@ plugins:
   - git-committers:
       repository: Zhu-Shatong/TOEFL-Experience
       branch: main
+  - social
 
 
 nav:
