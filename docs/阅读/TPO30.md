@@ -2,15 +2,15 @@
 
 得分：25  错4题
 
-![image-20230716001832686](https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230716001832686.png)
+![image-20230720123331345](https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123331345.png)
 
 
 
 ## 1 目的：段落目的推断/回答段落主旨
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230716002008151.png" alt="image-20230716002008151" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123344707.png" alt="image-20230720123344707" style="zoom:67%;" />
 
-![image-20230716003357152](https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230716003357152.png)
+![image-20230720123354592](https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123354592.png)
 
 ### 题解
 
@@ -24,7 +24,7 @@
 
 ### Tips
 
-**==段落作用（注意是这种提炼形式的题目，如目的、作用）需要结合前后文！==** 尤其是要注意前面一段有没有提出问题，后面一段有没有总结问题。不要框死在段落里面死扣。
+**==段落作用（注意是这种提炼形式的题目，如目的、作用）需要结合前后文！==**  尤其是要注意前面一段有没有提出问题，后面一段有没有总结问题。不要框死在段落里面死扣。
 
 选择的选项应该是相对**精炼的上位概念**！！！
 
@@ -32,9 +32,9 @@
 
 ## 2 拖拽题：分类题
 
-![image-20230716005633538](https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230716005633538.png)
+![image-20230720123415571](https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123415571.png)
 
-### 错误原因=
+### 错误原因
 
 为什么该选的没选呢？是因为这两个似乎模棱两可。但是**宽泛并不是错**的呀。
 
@@ -48,7 +48,7 @@
 
 ## 3 内容题
 
-![image-20230716010527793](https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230716010527793.png)
+![image-20230720123426971](https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123426971.png)
 
 ### 错误原因
 
@@ -60,18 +60,18 @@
 
 有的选项单词匹配，但是其他细节都是在瞎说！
 
-所以：==**选项一定要看全了理解全了**！！！==
+所以： ==**选项一定要看全了理解全了**！！！==
 
 
 
 ## 4 词义
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230716010959583.png" alt="image-20230716010959583" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123434872.png" alt="image-20230720123434872" style="zoom:67%;" />
 
 这个钟怎么样（不好）
 
 当单词不认识的时候，一个一个带入排除！！！
 
-basic其实是可以用的，没有任何理由排除掉，**没有“更好”一说，只有唯一正确**！
+basic其实是可以用的，没有任何理由排除掉， **没有“更好”一说，只有唯一正确**！
 
 impractical是“不切实际的”，中文想清楚了再选，别飘！

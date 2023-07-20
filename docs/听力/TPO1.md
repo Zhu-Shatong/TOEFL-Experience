@@ -1,14 +1,22 @@
 # TPO1
 
+<style>
+table th:first-of-type {
+    width: 300pt;
+}
+table th:nth-of-type(2) {
+    width: 300pt;
+}
+</style>
 
 
 ## CON 1
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230717221838845.png" alt="image-20230717221838845" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720122713901.png" alt="image-20230720122713901" style="zoom:50%;" />
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230717164336853.png" alt="image-20230717164336853" style="zoom: 67%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720122730245.png" alt="image-20230720122730245" style="zoom:67%;" />
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230717164353273.png" alt="image-20230717164353273" style="zoom: 67%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720122745439.png" alt="image-20230720122745439" style="zoom:67%;" />
 
 | en             | zh         |
 | -------------- | ---------- |
@@ -18,13 +26,13 @@
 
 ## CON 2
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230717202656598.png" alt="image-20230717202656598" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123226978.png" alt="image-20230720123226978" style="zoom:50%;" />
 
 ==“to”发音很多都是轻声。==
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230717205251986.png" alt="image-20230717205251986" style="zoom: 67%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720122813693.png" alt="image-20230720122813693" style="zoom:67%;" />
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230717205309023.png" alt="image-20230717205309023" style="zoom: 67%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720122828267.png" alt="image-20230720122828267" style="zoom:67%;" />
 
 | en                | zh            |
 | ----------------- | ------------- |
@@ -34,9 +42,9 @@
 
 ## LEC1
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230717220257723.png" alt="image-20230717220257723" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720122842404.png" alt="image-20230720122842404" style="zoom:50%;" />
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230717215747948.png" alt="image-20230717215747948" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720122853254.png" alt="image-20230720122853254" style="zoom:67%;" />
 
 | en                 | zh                   |
 | ------------------ | -------------------- |
@@ -49,9 +57,9 @@
 | vibrant            | 充满活力的           |
 | portrait           | 肖像，画像           |
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230717220357203.png" alt="image-20230717220357203" style="zoom: 67%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720122909375.png" alt="image-20230720122909375" style="zoom:67%;" />
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230717220438874.png" alt="image-20230717220438874" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720122915366.png" alt="image-20230720122915366" style="zoom: 80%;" />
 
 这两题错误的根本原因是明明已经听清楚了，老师认为，生平事迹对于理解没有作用，提及一下只是为了鼓励一下同学，但是对自己听到的内容并没有信心。觉得事实上不应该是这样吧。实际上是自己在脑补。
 
@@ -65,9 +73,9 @@
 
 ## LEC 2
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230718095819890.png" alt="image-20230718095819890" style="zoom: 50%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720122937317.png" alt="image-20230720122937317" style="zoom:50%;" />
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230718095803330.png" alt="image-20230718095803330" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720122941970.png" alt="image-20230720122941970" style="zoom:67%;" />
 
 | en           | zh         |
 | ------------ | ---------- |
@@ -77,7 +85,7 @@
 | granite      | 花岗岩     |
 | conclusively | 决定性地   |
 
-![image-20230718100331184](https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230718100331184.png)
+![image-20230720123000953](https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123000953.png)
 
 排序题，要求你详细的排某个实验分为哪三个先后步骤，顺序不能错。
 
@@ -85,7 +93,7 @@
 
 但是实际上应该是**不要记过于详细的笔记**。追求听懂，**听懂**了再排序就很容易了。
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230718100356836.png" alt="image-20230718100356836" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123013799.png" alt="image-20230720123013799" style="zoom:67%;" />
 
 对这个例子甚至根本没有印象。所以在听的时候需要尤其注意**举例**。
 
@@ -93,11 +101,11 @@
 
 ## LEC 3
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230718101753722.png" alt="image-20230718101753722" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123034671.png" alt="image-20230720123034671" style="zoom:50%;" />
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230718135955102.png" alt="image-20230718135955102" style="zoom: 67%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123048729.png" alt="image-20230720123048729" style="zoom:67%;" />
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230718140012485.png" alt="image-20230718140012485" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123247589.png" alt="image-20230720123247589" style="zoom:67%;" />
 
 | en              | zh             |
 | --------------- | -------------- |
@@ -110,7 +118,7 @@
 | hearth          | 壁炉；灶台     |
 | chimney         | 烟囱           |
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230718140713292.png" alt="image-20230718140713292" style="zoom: 80%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123108715.png" alt="image-20230720123108715" style="zoom:80%;" />
 
 这一题当时做的时候数据量很大，根本来不及记。所以当东西很多的时候就没必要慢慢记了，认真听理解了才是最重要的。
 
@@ -120,11 +128,11 @@
 
 ## LEC 4
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230718142830871.png" alt="image-20230718142830871" style="zoom:50%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123120241.png" alt="image-20230720123120241" style="zoom:50%;" />
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230718160020789.png" alt="image-20230718160020789" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123129692.png" alt="image-20230720123129692" style="zoom:67%;" />
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230718160034939.png" alt="image-20230718160034939" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123147565.png" alt="image-20230720123147565" style="zoom:67%;" />
 
 | en        | zh             |
 | --------- | -------------- |
@@ -134,7 +142,7 @@
 | temperate | （气候）温和的 |
 | meadow    | 草地，牧场     |
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230718142846225.png" alt="image-20230718142846225" style="zoom:80%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123201002.png" alt="image-20230720123201002" style="zoom: 80%;" />
 
 A选项原文中根本就没有出现，但是却选择了，这是因为自己按照意思大概猜测了一下，似乎意思是这样的，但是并不是。
 

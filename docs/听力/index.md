@@ -48,4 +48,5 @@
 
 整体再听一遍（不看语料）。确认自己能完全掌握这段语音。试着记笔记，确认结构清晰。回顾错题，确认能想通了。
 
-<img src="https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230717164452474.png" alt="image-20230717164452474" style="zoom: 50%;" />
+![image-20230720122606948](https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720122606948.png)
+

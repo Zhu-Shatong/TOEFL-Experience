@@ -1,6 +1,16 @@
 # 第二周
 
-
+<style>
+table th:first-of-type {
+    width: 200pt;
+}
+table th:nth-of-type(2) {
+    width: 200pt;
+}
+table th:nth-of-type(3) {
+    width: 120pt;
+}
+</style>
 
 ## 7.17 Mon
 

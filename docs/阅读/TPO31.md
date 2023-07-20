@@ -2,13 +2,13 @@
 
 得分：23  错八题
 
-![image-20230716142131422](https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230716142131422.png)
+![image-20230720123506770](https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123506770.png)
 
 
 
 ## 1 目的：举例目的/修辞目的/这么说的目的
 
-![image-20230716172324607](https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230716172324607.png)
+![image-20230720123514230](https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123514230.png)
 
 ### 错误原因
 
@@ -48,7 +48,7 @@
 
 ## 2 内容题
 
-![image-20230716201055914](https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230716201055914.png)
+![image-20230720123524316](https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123524316.png)
 
 ### 错误原因
 
@@ -68,7 +68,7 @@
 
 ## 3 内容题
 
-![image-20230716210346198](https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230716210346198.png)
+![image-20230720123532502](https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123532502.png)
 
 ### 错误原因
 
@@ -82,7 +82,7 @@ A不知为何会被忽略，明明很明显的。有可能是B把两种鱼的名
 
 ## 4 内容题
 
-![image-20230716212031729](https://raw.githubusercontent.com/Zhu-Shatong/cloudimg/master/img/image-20230716212031729.png)
+![image-20230720123539466](https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230720123539466.png)
 
 需要发现问题的本质：描述实验内容（也就是证据），正确的是。
 
