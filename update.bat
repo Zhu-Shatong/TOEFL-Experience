@@ -1,4 +1,4 @@
 git add .
-git commit -m "7.20 阅读专场"
+git commit -m "词以类计与按学科分类改版"
 git push origin main
 pause
