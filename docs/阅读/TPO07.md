@@ -12,8 +12,8 @@ Africa history agriculture iron
 
 <img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230803140838742.png" alt="image-20230803140838742" style="zoom:67%;" />
 
-<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230803140531381.png" alt="image-20230803140531381" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230803140531381.png" alt="image-20230803140531381" style="zoom: 80%;" />
 
-<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230803140553539.png" alt="image-20230803140553539" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230803140553539.png" alt="image-20230803140553539" style="zoom: 80%;" />
 
-<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230803140610796.png" alt="image-20230803140610796" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/Zhu-Shatong/cloudimg/img/image-20230803140610796.png" alt="image-20230803140610796" style="zoom: 80%;" />
