@@ -151,6 +151,8 @@ nav:
 
   - 阅读:
       - "TPO02": "阅读/TPO02.md"
+      - "TPO03": "阅读/TPO03.md"
+      - "TPO05": "阅读/TPO05.md"
       - "TPO07": "阅读/TPO07.md"
       - "TPO10": "阅读/TPO10.md"
       - "TPO17": "阅读/TPO17.md"
@@ -163,5 +165,6 @@ nav:
       - "方法论": "听力/index.md"
       - "TPO01": "听力/TPO01.md"
       - "TPO07": "听力/TPO07.md"
+      - "TPO10": "听力/TPO10.md"
 
 
